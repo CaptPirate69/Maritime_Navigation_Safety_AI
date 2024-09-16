@@ -37,6 +37,10 @@ Instructions
 1Open `30114165_CNN_Buoy_Detection.ipynb` in Colab and follow the steps to train and evaluate the CNN model.
 2.	Execute each cell sequentially to run the model on the buoy dataset.
 
+## Demo Video
+
+[Demo Video](https://universityofsouthwales-my.sharepoint.com/:f:/g/personal/30114165_students_southwales_ac_uk/EsqCM5omFeNGhT3FGXvHVxIBHkCeKUxtvmG8f-Z2UaFOIg?e=o6DXJM)
+
 ## Contact
 
 For questions reach out at 30114165@students.southwales.ac.uk.
